@@ -1,2 +1,3 @@
 # mosquitto_ios
-Mosquitto library iOS
+Mosquitto library iOS v1.4.5
+
